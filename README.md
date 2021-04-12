@@ -1,4 +1,4 @@
-# streamlitapp
+#Named Entity Recognition
 
 What the project does:
 In this Streamlit App users can enter any wikipedia name and extract Named Entity Recognition of that wikipedia.
