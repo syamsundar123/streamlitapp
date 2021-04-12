@@ -12,5 +12,7 @@ It is simple app in which user simply enters the wikipedia name and after enteri
 
 I have used python packages  wikipedia,spacy,streamlit ,spacy_streamlit
 in this project
-Where users can get help with your project:
+
+
+
 If you have any problem with the app or any query feel free to contact me at syamsundarrkss72692@gmail.com
